@@ -1,0 +1,23 @@
+p{
+	background: yellow;
+}
+body{
+	background: silver;
+}
+blockquote p{
+	background: orange;
+}
+#letras-purpuras{
+	color: purple;
+}
+.fondo{
+	background: white;
+}
+div{
+	width: 300px;
+	height: 300px;
+	background: red;
+}
+span{
+	background: blue;
+}
